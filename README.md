@@ -9,7 +9,6 @@ Many students struggle to manage their daily spending, leading to poor budgeting
 1. Allow students to record and update daily expenses.
 2. Automatically calculate total spending and remaining budget.
 3. Generate spending summaries by category.
-4. Provide a user-friendly interface.
 
 ## Planned Features
 - Add, edit, and delete expense entries.

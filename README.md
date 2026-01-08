@@ -21,7 +21,6 @@ Inputs:
 - Expense amount
 - Date
 - Category (e.g., food, transportation, school supplies)
-- Optional notes
 
 Outputs:
 - Updated expense list
